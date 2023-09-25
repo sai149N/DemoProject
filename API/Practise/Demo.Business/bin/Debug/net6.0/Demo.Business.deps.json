@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Demo.Business/1.0.0": {
+        "dependencies": {
+          "Demo.DAO": "1.0.0",
+          "Demo.DTO": "1.0.0"
+        },
+        "runtime": {
+          "Demo.Business.dll": {}
+        }
+      },
+      "Demo.DAO/1.0.0": {
+        "dependencies": {
+          "Demo.DTO": "1.0.0",
+          "Demo.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Demo.DAO.dll": {}
+        }
+      },
+      "Demo.DTO/1.0.0": {
+        "runtime": {
+          "Demo.DTO.dll": {}
+        }
+      },
+      "Demo.Entities/1.0.0": {
+        "runtime": {
+          "Demo.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo.DAO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

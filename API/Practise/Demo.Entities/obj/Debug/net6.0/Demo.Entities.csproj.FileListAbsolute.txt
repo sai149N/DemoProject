@@ -1,0 +1,12 @@
+D:\DemoProject\API\Practise\Demo.Entities\bin\Debug\net6.0\Demo.Entities.deps.json
+D:\DemoProject\API\Practise\Demo.Entities\bin\Debug\net6.0\Demo.Entities.dll
+D:\DemoProject\API\Practise\Demo.Entities\bin\Debug\net6.0\Demo.Entities.pdb
+D:\DemoProject\API\Practise\Demo.Entities\obj\Debug\net6.0\Demo.Entities.csproj.AssemblyReference.cache
+D:\DemoProject\API\Practise\Demo.Entities\obj\Debug\net6.0\Demo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoProject\API\Practise\Demo.Entities\obj\Debug\net6.0\Demo.Entities.AssemblyInfoInputs.cache
+D:\DemoProject\API\Practise\Demo.Entities\obj\Debug\net6.0\Demo.Entities.AssemblyInfo.cs
+D:\DemoProject\API\Practise\Demo.Entities\obj\Debug\net6.0\Demo.Entities.csproj.CoreCompileInputs.cache
+D:\DemoProject\API\Practise\Demo.Entities\obj\Debug\net6.0\Demo.Entities.dll
+D:\DemoProject\API\Practise\Demo.Entities\obj\Debug\net6.0\refint\Demo.Entities.dll
+D:\DemoProject\API\Practise\Demo.Entities\obj\Debug\net6.0\Demo.Entities.pdb
+D:\DemoProject\API\Practise\Demo.Entities\obj\Debug\net6.0\ref\Demo.Entities.dll

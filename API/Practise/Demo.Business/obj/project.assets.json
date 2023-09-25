@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Demo.DAO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Demo.DTO": "1.0.0",
+          "Demo.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Demo.DAO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demo.DAO.dll": {}
+        }
+      },
+      "Demo.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Demo.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demo.DTO.dll": {}
+        }
+      },
+      "Demo.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Demo.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demo.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo.DAO/1.0.0": {
+      "type": "project",
+      "path": "../Demo.DAO/Demo.DAO.csproj",
+      "msbuildProject": "../Demo.DAO/Demo.DAO.csproj"
+    },
+    "Demo.DTO/1.0.0": {
+      "type": "project",
+      "path": "../Demo.DTO/Demo.DTO.csproj",
+      "msbuildProject": "../Demo.DTO/Demo.DTO.csproj"
+    },
+    "Demo.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Demo.Entities/Demo.Entities.csproj",
+      "msbuildProject": "../Demo.Entities/Demo.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Demo.DAO >= 1.0.0",
+      "Demo.DTO >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Aspire_1\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\DemoProject\\API\\Practise\\Demo.Business\\Demo.Business.csproj",
+      "projectName": "Demo.Business",
+      "projectPath": "D:\\DemoProject\\API\\Practise\\Demo.Business\\Demo.Business.csproj",
+      "packagesPath": "C:\\Users\\Aspire_1\\.nuget\\packages\\",
+      "outputPath": "D:\\DemoProject\\API\\Practise\\Demo.Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Aspire_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\DemoProject\\API\\Practise\\Demo.DAO\\Demo.DAO.csproj": {
+              "projectPath": "D:\\DemoProject\\API\\Practise\\Demo.DAO\\Demo.DAO.csproj"
+            },
+            "D:\\DemoProject\\API\\Practise\\Demo.DTO\\Demo.DTO.csproj": {
+              "projectPath": "D:\\DemoProject\\API\\Practise\\Demo.DTO\\Demo.DTO.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\DemoProject\API\Practise\Demo.DTO\bin\Debug\net6.0\Demo.DTO.deps.json
+D:\DemoProject\API\Practise\Demo.DTO\bin\Debug\net6.0\Demo.DTO.dll
+D:\DemoProject\API\Practise\Demo.DTO\bin\Debug\net6.0\Demo.DTO.pdb
+D:\DemoProject\API\Practise\Demo.DTO\obj\Debug\net6.0\Demo.DTO.csproj.AssemblyReference.cache
+D:\DemoProject\API\Practise\Demo.DTO\obj\Debug\net6.0\Demo.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoProject\API\Practise\Demo.DTO\obj\Debug\net6.0\Demo.DTO.AssemblyInfoInputs.cache
+D:\DemoProject\API\Practise\Demo.DTO\obj\Debug\net6.0\Demo.DTO.AssemblyInfo.cs
+D:\DemoProject\API\Practise\Demo.DTO\obj\Debug\net6.0\Demo.DTO.csproj.CoreCompileInputs.cache
+D:\DemoProject\API\Practise\Demo.DTO\obj\Debug\net6.0\Demo.DTO.dll
+D:\DemoProject\API\Practise\Demo.DTO\obj\Debug\net6.0\refint\Demo.DTO.dll
+D:\DemoProject\API\Practise\Demo.DTO\obj\Debug\net6.0\Demo.DTO.pdb
+D:\DemoProject\API\Practise\Demo.DTO\obj\Debug\net6.0\ref\Demo.DTO.dll
