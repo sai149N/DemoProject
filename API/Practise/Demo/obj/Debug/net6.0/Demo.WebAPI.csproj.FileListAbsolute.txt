@@ -38,3 +38,5 @@ D:\DemoProject\API\Practise\Demo\obj\Debug\net6.0\refint\Demo.WebAPI.dll
 D:\DemoProject\API\Practise\Demo\obj\Debug\net6.0\Demo.WebAPI.pdb
 D:\DemoProject\API\Practise\Demo\obj\Debug\net6.0\Demo.WebAPI.genruntimeconfig.cache
 D:\DemoProject\API\Practise\Demo\obj\Debug\net6.0\ref\Demo.WebAPI.dll
+D:\DemoProject\API\Practise\Demo\bin\Debug\net6.0\appsettings.Production.json
+D:\DemoProject\API\Practise\Demo\bin\Debug\net6.0\appsettings.UAT.json
