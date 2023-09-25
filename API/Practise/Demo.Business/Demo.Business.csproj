@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Demo.DAO\Demo.DAO.csproj" />
+    <ProjectReference Include="..\Demo.DTO\Demo.DTO.csproj" />
+  </ItemGroup>
+
+</Project>
